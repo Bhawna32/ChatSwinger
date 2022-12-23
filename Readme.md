@@ -58,3 +58,6 @@ _**ChatSwinger** is a simple chat application built using `Socket.io` and `Next.
 `Video-Call`
 
 ![VideoCall]()
+
+---
+Blog Link: https://medium.com/@chellabhargavi2002/hackathon-mini-project-at-masai-chat-swinger-86b401575804
