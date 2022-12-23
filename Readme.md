@@ -35,3 +35,28 @@ _**ChatSwinger** is a simple Chat application built using `Socket.io` and `Next.
 <br/>
 
 ## **Glimpses**
+
+
+## **Glimpses**
+`Register`
+
+![Register]()
+
+<br/>
+
+`Login`
+
+![Login]()
+
+<br/>
+
+`ChatApp`
+
+![ChatApp]()
+![ChatApp]()
+
+<br/>
+
+`Video-Call`
+
+![VideoCall]()
