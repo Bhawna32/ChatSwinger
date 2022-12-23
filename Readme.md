@@ -31,11 +31,9 @@ _**ChatSwinger** is a simple Chat application built using `Socket.io` and `Next.
    <li> <a href="https://github.com/bhargavi35"> Bhargavi Chella </a> [fw17_0199] </li>
    <li> <a href="https://github.com/Bhawna32"> Bhawna Singh </a> [fw17_0548]
   <li><a href="https://github.com/pragati-tripathi05"> Pragati Tripathi </a> [fw17_0323]</li>
+</ul>
 
 <br/>
-
-## **Glimpses**
-
 
 ## **Glimpses**
 `Register`
