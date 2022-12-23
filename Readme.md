@@ -1,11 +1,5 @@
 # **ChatSwinger**
 
-## **Deployed**:
-
-#### Backend :
-
-<br/>
-
 ## **About the Project**
 
 _**ChatSwinger** is a simple chat application built using `Socket.io` and `Next.js`. Users need to register and login, and after the authorisation, they can text-chat and video-call using this application._
